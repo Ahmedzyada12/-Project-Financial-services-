@@ -1,0 +1,23 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body{
+     /* font-family: "Poppins", sans-serif;  */
+     font-family: verdana;
+     font-weight: bold;
+    /* letter-spacing: 0.10em; */
+}
+.image_6 {
+    width: 100%;
+    float: left;
+    position: relative;
+    left: -100px;
+    top: -50px;
+}
+.cust img{
+    border-radius: 50%;
+    width: 45px;
+    margin-top: 15px;
+}
